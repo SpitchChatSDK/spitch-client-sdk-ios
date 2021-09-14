@@ -42,9 +42,6 @@ Previous _Objective-C_ version (version numbers 2.x.x) can be reached from **ver
 
 ## Example
 
-![Start screen screenshot Classic theme](Documentation/Images/Screenshots/StartScreenClassic.png) ![Settings screen screenshot Classic theme](Documentation/Images/Screenshots/SettingsScreenClassic.png) ![Chat screen screenshot Classic theme](Documentation/Images/Screenshots/ChatScreenClassic.png) ![Image preview screenshot Classic theme](Documentation/Images/Screenshots/ImageScreenClassic.png) ![Rating window screenshot Classic theme](Documentation/Images/Screenshots/RatingScreenClassic.png)
-
-![Start screen screenshot Dark theme](Documentation/Images/Screenshots/StartScreenDark.png) ![Settings screen screenshot Dark theme](Documentation/Images/Screenshots/SettingsScreenDark.png) ![Chat screen screenshot Dark theme](Documentation/Images/Screenshots/ChatScreenDark.png) ![Image preview screenshot Dark theme](Documentation/Images/Screenshots/ImageScreenDark.png) ![Rating window screenshot Dark theme](Documentation/Images/Screenshots/RatingScreenDark.png)
 
 If you don't have _CocoaPods_ installed you should firstly run `sudo gem install cocoapods`.
 
